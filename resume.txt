@@ -1,0 +1,23 @@
+-------------------------- GIT & GITHUB ----------------------------
+GIT : Software VCS : Version Control System : Local (PC) : Local Repositorys (.git)
+GITHUB : Online Platform : Portfolio : Remote Repositorys
+
+PC : File ---------->Git-------------->Github
+
+git init : initialize empty git repostory (dossier caché .git)
+git add . : selection de fichier dans l'espace virtuel : staging area
+----- git status : staging area details
+git commit -m "version" : confirm files & give them a version name
+----- git log : check commit history.
+git branch : define the branch
+
+git Remote : define the remote repository to upload into
+
+git push : push the files to the remote repository
+
+
+----------------------- GIT CLONE & FORK --------------------------
+
+git clone url : download the project in the pc / the project is not longuer linked to the remote repository
+
+git fork : take an online copy on github and it will be always linked to the original repository
